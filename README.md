@@ -1,0 +1,2 @@
+# structible
+Ansible layout manager
